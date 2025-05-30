@@ -2,9 +2,9 @@
 This project is an example application used during a workshop to demonstrate how pages router and app router work in a web application.
 
 ## Key Components
-- **app/routes/** */ : Contains different routing strategies such as client, dynamic, static, and streaming.
-- **components/** */ : Reusable components like loading, page layout, product card, and product list.
-- **pages/** */ : Includes different rendering strategies like CSR (Client-Side Rendering), ISR (Incremental Static Regeneration), SSG (Static Site Generation), and SSR (Server-Side Rendering).
+- **app/routes/**: Contains different routing strategies such as client, dynamic, static, and streaming.
+- **components/**: Reusable components like loading, page layout, product card, and product list.
+- **pages/** : Includes different rendering strategies like CSR (Client-Side Rendering), ISR (Incremental Static Regeneration), SSG (Static Site Generation), and SSR (Server-Side Rendering).
 
 ## Running the Project
 To start the development server, use:
